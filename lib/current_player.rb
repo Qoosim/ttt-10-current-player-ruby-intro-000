@@ -1,3 +1,4 @@
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def count_turn(board)
 
 end
